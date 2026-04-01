@@ -1,0 +1,8 @@
+selenium
+from selenium.webdriver.support
+pandas
+numpy
+request
+json
+BeautifulSoup
+urlsplit, urlunsplit, quote_plus
